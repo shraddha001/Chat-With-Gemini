@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Integrate Google Gemini</string>
+    <string name="action_submit">Submit</string>
+    <string name="chatting_title">Chatting with Gemini</string>
+    <string name="label_prompt">Type here…</string>
+    <string name="prompt_placeholder">Say Hi to Gemini</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
